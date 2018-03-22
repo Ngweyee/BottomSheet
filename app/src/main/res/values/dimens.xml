@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="md_padding_top">5dp</dimen>
+    <dimen name="md_padding_left">3dp</dimen>
+    <dimen name="text_size">2sp</dimen>
+</resources>
